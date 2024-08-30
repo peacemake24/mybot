@@ -1,0 +1,16 @@
+{
+    "DataBase": {
+        "database_name": "Spainboy",
+        "database_username": "Spainboy",
+        "database_password": "Blessing042$$$"
+    },
+    "URL": "https://app.swapsaver.net",
+    "Account": {
+        "api_id": 25367115,
+        "api_hash": "d1d4fd120940f6c38ad8b8a4ce64ee4b",
+        "token": "7456377736:AAHWB_6RjOrkAZEsg5u2h9H0HsaGKTjkajU",
+        "admin_username" : "swapsaver",
+        "chanell_link": "doniaweb",
+        "bot_link": "masksky_bot"
+    }
+}
