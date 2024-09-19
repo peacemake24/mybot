@@ -6,11 +6,11 @@
     },
     "URL": "https://app.swapsaver.net",
     "Account": {
-        "api_id": 25367115,
-        "api_hash": "d1d4fd120940f6c38ad8b8a4ce64ee4b",
-        "token": "7456377736:AAHWB_6RjOrkAZEsg5u2h9H0HsaGKTjkajU",
+        "api_id": 21453836,
+        "api_hash": "8ddd1a5210ac3e2facf2e99035bcfb77",
+        "token": "7672386312:AAGpUEKUbYth4Bmh6wn-yW09IRWfrA5q7RQ",
         "admin_username" : "swapsaver",
-        "chanell_link": "doniaweb",
-        "bot_link": "masksky_bot"
+        "chanell_link": "wazobia_coin",
+        "bot_link": "Wazobia_coinbot"
     }
 }
